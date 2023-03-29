@@ -1,0 +1,22 @@
+(footprint "KeySwitch_Plate_Hole" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr smd)
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp c2758a62-e92e-4049-a9cf-09d7bb2bf836)
+  )
+  (fp_text value "KeySwitch_Plate_Hole" (at 0 1 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 644bf8d9-fb40-4e36-ac7d-de25ac059333)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp ca4e8b1d-c784-47f9-91ec-d5af609b0b51)
+  )
+  (fp_rect (start -7 -7) (end 7 7) (layer "Edge.Cuts") (width 0.12) (fill none) (tstamp e4b8e7ea-a840-4ade-b91b-d1c768028281))
+  (pad "" smd rect (at 0 7.5) (size 14 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5bb8885c-6a1d-4fa5-b089-3c5649f55e3b))
+  (pad "" smd rect (at 0 -7.5) (size 14 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7ba44726-0ab0-4078-8afa-29b4c9a51bb8))
+  (pad "" smd rect (at -7.5 0 90) (size 16 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ba827696-21f5-44d3-a819-fedb18eca842))
+  (pad "" smd rect (at 7.5 0 90) (size 16 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f76accc8-ad5f-4422-a207-024218517a27))
+)
