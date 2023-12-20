@@ -5,7 +5,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 58c7a32e-e2bb-47f1-a50d-3f1e5e5727b2)
   )
-  (fp_text value "CherryMX_Hotswap_2.25u" (at 0 11 unlocked) (layer "F.Fab") hide
+  (fp_text value "CherryMX_Hotswap_2.25u" (at 0 3 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 0988ae1a-2d3a-439c-b8d4-74aab99e50c7)
   )
