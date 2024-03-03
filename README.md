@@ -19,3 +19,13 @@
 | SW_CherryMX_Topplate_Hole.kicad_mod | ![SW_CherryMX_Topplate_Hole](./pic/SW_CherryMX_Topplate_Hole.png) |
 | SW_CherryMX_Topplate_Hole_With_Stabilizer.kicad_mod | ![SW_CherryMX_Topplate_Hole_With_Stabilizer](./pic/SW_CherryMX_Topplate_Hole_With_Stabilizer.png) |
 | raspberry_pi_pico.kicad_mod | ![raspberry_pi_pico](./pic/raspberry_pi_pico.png) |
+
+## symbol
+
+| symbol |
+| ---- |
+| CR1220 |
+| LED_6pin |
+| RP2040-ZERO |
+| Raspberry_Pi_Pico(without_debugPin) |
+| SK6812MINI-E |
