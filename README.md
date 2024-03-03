@@ -19,6 +19,9 @@
 | SW_CherryMX_Topplate_Hole.kicad_mod | ![SW_CherryMX_Topplate_Hole](./pic/SW_CherryMX_Topplate_Hole.png) |
 | SW_CherryMX_Topplate_Hole_With_Stabilizer.kicad_mod | ![SW_CherryMX_Topplate_Hole_With_Stabilizer](./pic/SW_CherryMX_Topplate_Hole_With_Stabilizer.png) |
 | raspberry_pi_pico.kicad_mod | ![raspberry_pi_pico](./pic/raspberry_pi_pico.png) |
+| Tact_switch_3.5_6mm.kicad_mod | ![Tact_switch_3.5_6mm](./pic/Tact_switch_3.5_6mm.png) |
+| Tact_Switch_3.6_6mm_SMD.kicad_mod | ![Tact_Switch_3.6_6mm_SMD](./pic/Tact_Switch_3.6_6mm_SMD.png) |
+| Tact_Switch_5.1_5.1mm_SMD.kicad_mod | ![Tact_Switch_5.1_5.1mm_SMD](./pic/Tact_Switch_5.1_5.1mm_SMD.png) |
 
 ## symbol
 
@@ -29,3 +32,4 @@
 | RP2040-ZERO |
 | Raspberry_Pi_Pico(without_debugPin) |
 | SK6812MINI-E |
+| SW_Push_4pin |
